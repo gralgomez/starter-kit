@@ -451,7 +451,7 @@ Laura Gabrysiak Gómez, Catalina Arango
 
 - meetup:
 - twitter:
-- email:
+- email: miami@rladies.org
 
 **Orlando**
 
